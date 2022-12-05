@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkduck_debugging_website=self.webpackChunkduck_debugging_website||[]).push([[911],{7254:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/duck-debugging-website/blog/tags/hola","allTagsPath":"/duck-debugging-website/blog/tags","count":1}')}}]);
