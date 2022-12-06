@@ -23,7 +23,7 @@ A platform for programmers to exchange ideas and post questions
 
 ## App APK
 
-<!-- <a href="https://n-maido.github.io/duck-debugging-website/assets/duck-debugging.apk" download>Download the app APK</a> -->
+<a href="https://n-maido.github.io/duck-debugging-website/assets/duck-debugging.apk" download>Download the app APK</a>
 
 ## MVVM and Threaded Design Diagrams
 
