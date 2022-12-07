@@ -15,21 +15,46 @@ A platform for programmers to exchange ideas and post questions
 
 ### Mohammad
 
+- Notification service + Notification tab
+- User model
+- Login & registration
+- User profile
+- Bottom navigation bar
+
 ### Leo
+
+- New posts
+- Edit posts
+- Replies
+- Retrieving a user’s posts
 
 ### Kowsar
 
+- Login & registration
+- Login animation
+- User profile UI
+
 ### Nhi
+
+- Search tab
+- Category page
+- Question thread page
+- News feed tab
+- Set up recycler view to display user’s posts in the profile tab
 
 ## App APK
 
 <a href="https://n-maido.github.io/duck-debugging-website/assets/duck-debugging.apk" download>Download the app APK</a>
 
-## MVVM and Threaded Design Diagrams
+## Threaded Design Diagram
+
+<img src="https://n-maido.github.io/duck-debugging-website/img/thread.png" alt="Threaded design diagram"/>
+<p></p>
+<a href="https://n-maido.github.io/duck-debugging-website/assets/thread-slide.pdf" download>Download the diagram</a>
 
 ## Presentation Video
 
-Watch our final presentation video
+[Watch our final presentation video](https://youtu.be/o8JuPFgYzu8)
 
 ## Source Code
 
